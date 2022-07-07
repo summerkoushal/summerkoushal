@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [netflix clone](https://github.com/summerkoushal/netflix-clone)
+- 🔭 I’m currently working on [portfolio project](~https://github.com/summerkoushal/netflix-clone)
 
 - 🌱 I’m currently learning **nodejs, express, mongodb**
 
