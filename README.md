@@ -13,9 +13,6 @@
 
 - 📫 How to reach me **summerkoushal2468@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
-
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
