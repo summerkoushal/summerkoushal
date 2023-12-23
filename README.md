@@ -9,23 +9,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [portfolio project](~https://github.com/summerkoushal/netflix-clone)
-
-- 🌱 I’m currently learning **nodejs, express, mongodb**
-
-- 🤝 I’m looking for help with [navbar positioning](https://github.com/mladenplavsic/bootstrap-navbar-sidebar)
-
-- 👨‍💻 All of my projects are available at [https://portfolio.com](https://portfolio.com)
-
-- 📝 I regularly write articles on [bitly.ht/14](bitly.ht/14)
-
 - 💬 Ask me about **html, css, javascript**
 
-- 📫 How to reach me **koushalsummer@gmail.com**
+- 📫 How to reach me **summerkoushal2468@gmail.com**
 
 - 📄 Know about my experiences [resume](resume)
 
-- ⚡ Fun fact **i think i can crack google**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
